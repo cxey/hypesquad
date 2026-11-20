@@ -1,6 +1,6 @@
 # <img src="images/logo.png" width="32" height="32" align="absmiddle"> Discord HypeSquad Badge Manager
 
-A modern, secure application (Web & Desktop) that lets you easily manage your Discord HypeSquad badges without complex manual requests..
+A modern, secure application (Web & Desktop) that lets you easily manage your Discord HypeSquad badges without complex manual requests.
 
 ## App Screenshots (Web/Desktop) 
 
